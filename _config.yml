@@ -1,17 +1,17 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Dev. Fallingstar - Who Am I?
+description: Who the heck is Dev Fallingstar
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+username: Dev. Fallingstar
+user_description: Swift를 이용해서 iOS 어플리케이션을, Java를 이용해서 안드로이드 어플리케이션을 제작합니다. 언제까지나 Frontend에 머무를 수 없기에 Backend를 다루기 위해 Python과 Flask을 통해서 REST API 서버를 개발합니다. 또한, 언제까지나 개발자로 머무를 수 없기에 VR 스트리밍을 활용한 네트워크 시스템 개발에 대해서 연구하고 있습니다.
 user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+email: stardung86@gmail.com
+twitter_username: devFallingstar
+github_username:  devFallingstar
+gplus_username:  양유성
 
 # Google-analytics
 google-analytics:
